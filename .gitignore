@@ -1,3 +1,9 @@
+# Editor Files
+*.swp
+
+# Binaries Directory
+/bin
+
 # Prerequisites
 *.d
 
